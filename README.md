@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>Decode Morse</b></h3>
+  <h3><b>own Enumerable</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -16,7 +16,6 @@
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -25,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 DECODE MORSE <a name="about-project"></a>
+# 📖 own Enumerable <a name="about-project"></a>
 
-**Decode-Morse** is a problem which solve a morse coded into a simple texts.
+**own Enumerable** is a ruby program that creates an enumerable module that is used in a class MyList to carry out all?, any? and filter methods on a list of items.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -43,8 +42,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add message to decode**
-- **Add text output**
+- **Create Enumerable module**
+- **all?,any?,filter operations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +70,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/cosywasswa/decode-morse.git
+  git clone https://github.com/rbd3/Own-Enumerable.git
 ```
 --->
 <!--
@@ -88,7 +87,7 @@ Example command:
 --->
 
 ### Usage
- run ruby decode_morse_spec.rb
+ run ruby my_class_spec.rb
 <!--
 Example command:
 <!--
@@ -105,7 +104,7 @@ To run tests, run the following command:
 👤 **Cosmas wasswa**
 
 - GitHub: [@githubhandle](https://github.com/cosywasswa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmas-wasswa-931a2761/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmas-wasswa)
 
 👤 **Andry Narson**
 
@@ -116,19 +115,13 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cosywasswa/decode-morse/issues).
+Feel free to check the [issues page](https://github.com/rbd3/Own-Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
